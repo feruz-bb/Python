@@ -1,0 +1,6 @@
+.sort() - ro`yxatni alifbo tartibida tartiblaydi. Katta harflar kichik harflardan oldin keladi.
+   	    reverse=True argument ro`yxatni teskari tartibda tartiblaydi.
+sorted()- Ro`yxat ketmaketligini buzmagan holda tartiblash uchun foydalaniladi.
+
+.reverse() - ro`yxatni aylantiradi ya`ni boshini oxiriga, oxirini boshiga.
+len(value) - ro`yxat uzunligini aniqlash

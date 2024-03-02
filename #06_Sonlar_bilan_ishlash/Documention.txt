@@ -1,0 +1,17 @@
+    INTEGERS - BUTUN SONLAR
+Butun sonlarni ham o`zgaruvchida saqlash mumkin va ularning ustida arifmetik amallarni bajarish mumkin.
+--Python - operatorlar orasidagi bo`shliqlarni inobatga olmaydi. O`qishga qulay bo`lishi bo`shliqlar bilan yozishingiz mumkin.
+
+	FLOATS - O`NLIK SONLAR 
+Pythonda o`nlik sonlar floating point numbers yoki qisqa qilib floats deyiladi. "Floating point numbers" atamasini o`zbek tiliga "suzuvchi nuqtali sonlar" deb tarjima qilish mumkin. Ingliz tilida o`nlik sonlarni yozishda vergul emas nuqta belgisi ishlatiladi va bu nuqta sonning katta kichikligiga qarab joyi o`zgargani uchun "floating" (suzuvchi) deyiladi.
+
+--Har qanday sonlar ustida amallarning natijasi o`nlik son hosil bo`ladi.
+--O`zimizga o`qish qulay bo`lishi uchun raqamlarni pastki chiziq orqali guruhlash mumkin.(M: 1_235_254) Natijasi uzun sonligicha qoladi.
+--Pythonda konstanta tushunchasi bo`lmaganligi sabali dasturchilar konstanta qiymatni ifodalash uchun o`zgaruvchi nomini bosh harflar bilan yozishga kelishib olishgan.
+--Bir nechta o`zgaruvchiga qiymat berish uchun o`zgaruvchilar vergul bilan ketma-ket yoziladi va tenglikdan so`ng qiymatlar ham unga mos ravishda ketma-ket yoziladi.
+--Pythonda bir turdagi o`zgaruvchini boshqa turga o`tkazish mumkin, bu ingliz tilida typecasting() deyiladi.
+--str() - int yoki float turidagi sonlarni matnga o`zgartiradi.
+--int() - matn yoki float ko`rinishidagi qiymatlarni butun songa o`zgartiradi. Bunda matn butun son ko`rinishida bo`lishi kerak.
+--float() - matn yoki int ko`rinishidagi qiymatlarni o`nlin songa o`zgartiradi.
+--O`zgaruvchining turini tekshirish uchun type() funksiyasidan foydalanish mumkin.
+--input() - funksiyasi string ko`rinishida bo`ladi. Uni butun songa o`tkazish uchun int() funksiyasidan foydalanish mumkin.

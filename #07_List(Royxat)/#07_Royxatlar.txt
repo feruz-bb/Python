@@ -1,0 +1,11 @@
+.append() - metodi orqali ro`yxatning oxiriga qiymat qo`shish mumkin.
+
+.insert() - metodi orqali istalgan joyga element qo`shish mumkin.
+        
+del - indeks yordamida ro`yxatdagi biror elementni o`chirish uchun foydalanamiz.
+
+.remove(qiymat) - elementni qiymati bo`yicha o`chiradi.
+
+.pop(indeks) - ro`yxat ichidagi elementni sug`urib oladi.
+               indeks yozilmasa ro`yxatning oxiridagi qiymatni qaytaradi.
+               
