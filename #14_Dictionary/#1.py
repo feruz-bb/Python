@@ -38,3 +38,11 @@ talaba1['kurs'] = 2
 
 # KALIT SO`Z-QIYMAT JUFTLIGINI O`CHIRISH
 
+#print(talaba1)
+#del talaba1['kurs']
+#print(talaba1)
+
+# get() METODI
+
+ism = talaba1.get('yosh','Bunnday kalit so\'z mavjud emas!')
+print(ism)
