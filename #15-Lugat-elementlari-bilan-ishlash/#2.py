@@ -41,26 +41,28 @@ else:
 
 """
 
+"""
 menu = {
         'manti' : 8000,
         'osh' : 26000,
         'xonim' : 6000,
         'gumma' : 4000,
         'lavash' : 28000,
-        'somas' : 5000
+        'somas' : 5000,
+        'non' : 6000
         }
 
 buyurtma = []
 n = int(input("Nechta buyurtma bermoqchisiz >>> "))
+for i in range(n):
+    taom = input(f"{i+1} - taom nomini kiriting >>> ")
+    buyurtma.append(taom)
+
+for mahsulot in buyurtma:
+    waiter = menu.get(mahsulot.lower())
+    if waiter != None:
+        print(f"{mahsulot.title()} {waiter}")
+    else:
+        print(f"Kechirasiz, bizda {mahsulot.lower()} yo\'q")
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+"""
