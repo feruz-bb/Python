@@ -45,3 +45,5 @@ mahalla = input("Mahalla nomini kiriting: ")
 tuman = input("Tumaningiz nomini kiriting: ")
 viloyat = input("Viloyatingiz nomini kiriting: ")
 
+addres = f"{kocha.capitalize()} ko'chasi, {mahalla.capitalize()} mahallasi, {tuman.capitalize()} tumani, {viloyat.capitalize()} viloyati"
+print(addres)
