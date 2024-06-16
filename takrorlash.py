@@ -39,11 +39,18 @@ Created on Sat Jun  8 01:38:36 2024
 # viloyat = "Buxoro"
 # natija = f"{kocha} ko'chasi, {mahalla} mahallasi, {tuman} tumani, {viloyat} viloyati"
 # print(natija)
+#
+# kocha = input("Ko'changiz nomini kiriting: ")
+# mahalla = input("Mahalla nomini kiriting: ")
+# tuman = input("Tumaningiz nomini kiriting: ")
+# viloyat = input("Viloyatingiz nomini kiriting: ")
+#
+# addres = (f"{kocha.capitalize()} ko'chasi,\n{mahalla.capitalize()} mahallasi,"
+#           f"\n{tuman.capitalize()} tumani,\n{viloyat.capitalize()} viloyati")
+# print(addres)
 
-kocha = input("Ko'changiz nomini kiriting: ")
-mahalla = input("Mahalla nomini kiriting: ")
-tuman = input("Tumaningiz nomini kiriting: ")
-viloyat = input("Viloyatingiz nomini kiriting: ")
+    # String metodlari (by chatGPT-4o)
 
-addres = f"{kocha.capitalize()} ko'chasi, {mahalla.capitalize()} mahallasi, {tuman.capitalize()} tumani, {viloyat.capitalize()} viloyati"
-print(addres)
+# string.capitalize() faqat birinchi belgini kattalashtiradi
+print("Capitalize: ", "salom".capitalize())
+# string.casefold
