@@ -40,7 +40,7 @@ Created on Sat Mar  2 21:03:31 2024
 # TASK 4
 
 # mahsulotlar = ['un', "yog'", "sovun", 'tuxum', 'piyoz',
-#                'kartoshka', 'olma', 'banan', 'uzum', 'qovun']
+#                'SmartOS', 'alma', 'banana', 'um', 'novus']
 # savat = []
 # for n in range(5):
 #     savat.append(input(f"Savatga {n+1}-mahsulotni qo'shing: "))
